@@ -127,7 +127,3 @@ You may share and adapt the material for non-commercial use with proper attribut
 
 For full terms, see the [LICENSE](LICENSE) file or visit:
 [https://creativecommons.org/licenses/by-nc/4.0/](https://creativecommons.org/licenses/by-nc/4.0/)
-
-
-هل ترغب أن أضيف الآن **قسم “Installation & Execution”** في آخر README
-ليوضح كيف يشغّل المستخدم الـ `.ipynb` في Jupyter أو Google Colab مع المتطلبات؟
